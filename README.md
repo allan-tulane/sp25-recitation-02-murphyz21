@@ -1,6 +1,6 @@
 # CMPS 2200  Recitation 02
 
-**Name (Team Member 1):**_________________________  
+**Name (Team Member 1):**__Zoe Murphy___  
 **Name (Team Member 2):**_________________________
 
 In this recitation, we will investigate recurrences. 
